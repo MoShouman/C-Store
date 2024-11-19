@@ -8,7 +8,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.5.0",
-    "firebase": "^7.18.0",
+    "firebase": "^10.9.0",
     "radium": "^0.26.1",
     "react": "^16.13.1",
     "react-bootstrap-table-next": "^4.0.3",
